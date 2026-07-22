@@ -4,7 +4,7 @@
 
 
 # Xorsery 🦎
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)
 
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 ![XOR](https://img.shields.io/badge/XOR-encryption-ff6b6b?style=for-the-badge)
