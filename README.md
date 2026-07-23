@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 ![XOR](https://img.shields.io/badge/XOR-encryption-ff6b6b?style=for-the-badge)
 ![AES-CTR](https://img.shields.io/badge/AES--CTR-256_bit-4ecdc4?style=for-the-badge)
-[![Python](https://img.shields.io/bage/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat-square)](https://www.python.org/)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 
 
 ##### Xorsery — инструмент для сокрытия изображений с использованием XOR и AES-CTR шифрования.
